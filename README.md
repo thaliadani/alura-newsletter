@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/TAILWIND%20CSS-239120?&style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/TAILWIND%20CSS-239120?&style=for-the-badge&labelColor=9cf&color=9cf&logo=tailwindcss&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 </div><br>
